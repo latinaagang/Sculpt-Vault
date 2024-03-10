@@ -2,6 +2,7 @@ body {
   color: #fff;
 }
 
+
 .custom-table {
     width: 100%;
     border-collapse: collapse;
@@ -98,7 +99,7 @@ body {
   button {
     padding: 10px 15px;
     background-color: #560000;
-    color: rgb(13, 13, 13)e0e;
+    color: rgb(255, 255, 255)e0e;
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -111,6 +112,6 @@ body {
   
   
   .custom-btn-warning {
-    background-color: #c10000;
+    background-color: #560000;
     color: #ffffff;
   }
